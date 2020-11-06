@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "blocks/gen5/green/whiteglow",
 		"4": "blocks/gen5/metallic",
-		"7": "blocks/gen5/rimglow",
+		"7": "blocks/gen5/green/rimglow",
 		"8": "blocks/gen5/wheelmetal",
 		"9": "blocks/gen5/metal",
 		"10": "blocks/gen5/metal2",
