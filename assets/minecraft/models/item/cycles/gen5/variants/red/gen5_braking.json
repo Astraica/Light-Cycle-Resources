@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Flubberschnub",
 	"textures": {
 		"0": "blocks/gen5/blackspecular",
 		"1": "blocks/gen5/red/whiteglow",
@@ -2548,7 +2548,7 @@
 				"north": {"uv": [1.75288, 0, 0, 14.34438], "texture": "#8"},
 				"east": {"uv": [0, 0, 0.75, 4.5], "texture": "#1"},
 				"south": {"uv": [0, 0, 0.55, 4.5], "texture": "#1"},
-				"west": {"uv": [0, 0, 0.75, 4.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 0.75, 0.45313], "texture": "#8"},
 				"up": {"uv": [7, 6, 8.5, 12], "texture": "#1"},
 				"down": {"uv": [0, 0, 0.55, 0.75], "texture": "#1"}
 			}
@@ -2559,7 +2559,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 1.75288, 14.34438], "texture": "#8"},
-				"east": {"uv": [0, 0, 0.75, 4.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.75, 0.5], "texture": "#8"},
 				"south": {"uv": [0, 0, 0.55, 4.5], "texture": "#1"},
 				"west": {"uv": [0, 0, 0.75, 4.5], "texture": "#1"},
 				"up": {"uv": [7, 6, 8.5, 12], "texture": "#1"},
