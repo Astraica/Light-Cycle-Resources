@@ -7,7 +7,7 @@
 		"8": "blocks/gen5/yellow/wireframe",
 		"10": "blocks/gen5/metal",
 		"11": "blocks/gen5/metal2",
-		"12": "blocks/gen5/yellow/headlights",
+		"12": "blocks/gen5/orange/headlights",
 		"particle": "blocks/gen5/blackspecular"
 	},
 	"elements": [

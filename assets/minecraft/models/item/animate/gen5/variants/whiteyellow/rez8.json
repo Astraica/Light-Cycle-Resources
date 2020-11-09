@@ -11,7 +11,7 @@
 		"13": "blocks/gen5/yellow/wheellightlines",
 		"14": "blocks/gen5/white_wheelmetal",
 		"15": "blocks/gen5/yellow/white_lightcycledash",
-		"16": "blocks/gen5/yellow/white_headlights",
+		"16": "blocks/gen5/orange/white_headlights",
 		"particle": "blocks/gen5/blackspecular"
 	},
 	"elements": [
