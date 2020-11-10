@@ -2,7 +2,7 @@
 	"credit": "Made by Flubberschnub",
 	"textures": {
 		"5": "blocks/gen5/wireframe",
-		"particle": "blocks/gen5/whiteglow"
+		"particle": "blocks/gen5/whiteglow2"
 	},
 	"elements": [
 		{
