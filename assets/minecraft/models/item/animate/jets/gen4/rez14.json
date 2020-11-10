@@ -5,7 +5,7 @@
 		"1": "blocks/gen5/blackspecular",
 		"2": "blocks/gen5/darkmetallic",
 		"5": "blocks/gen5/wireframe",
-		"particle": "blocks/gen5/whiteglow"
+		"particle": "blocks/gen5/whiteglow2"
 	},
 	"elements": [
 		{
