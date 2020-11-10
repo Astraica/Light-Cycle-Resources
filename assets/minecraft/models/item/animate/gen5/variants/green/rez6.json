@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Flubberschnub",
 	"textures": {
-		"8": "blocks/gen5/green/wireframe3",
+		"8": "blocks/gen5/green/wireframe",
 		"particle": "blocks/gen5/blackspecular"
 	},
 	"elements": [
