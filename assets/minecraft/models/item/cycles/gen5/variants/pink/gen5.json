@@ -1,0 +1,25 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/cycles/gen5/gen5_model",
+	"textures": {
+		"1": "blocks/gen5/pink/whiteglow",
+		"4": "blocks/gen5/metallic",
+		"7": "blocks/gen5/pink/rimglow",
+		"8": "blocks/gen5/wheelmetal",
+		"9": "blocks/gen5/metal",
+		"10": "blocks/gen5/metal2",
+		"11": "blocks/gen5/leather",
+		"12": "blocks/gen5/pink/wheellightlines",
+		"13": "blocks/gen5/headlights",
+		"14": "blocks/gen5/pink/engine",
+		"15": "blocks/gen5/cludash",
+		"16": "blocks/gen5/pink/lightcycledash",
+		"particle": "blocks/gen5/blackspecular"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":10444},
+		  "model": "minecraft:item/cycles/gen5/gen5_model"
+		}
+	]
+}

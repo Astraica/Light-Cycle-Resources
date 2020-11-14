@@ -1,0 +1,16 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/cycles/gen5/closedbaton5_model",
+	"textures": {
+		"0": "blocks/gen5/blackspecular",
+		"1": "blocks/gen5/darkmetallic",
+		"2": "blocks/gen5/pink/blueemitter",
+		"particle": "blocks/gen5/blackspecular"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":11555},
+		  "model": "minecraft:item/cycles/gen5/closedbaton5_model"
+		}
+	]
+}
