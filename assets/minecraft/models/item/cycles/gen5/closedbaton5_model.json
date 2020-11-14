@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "blocks/gen5/blackspecular",
 		"1": "blocks/gen5/darkmetallic",
-		"2": "blocks/gen5/pink/blueemitter",
+		"2": "blocks/gen5/blueemitter",
 		"particle": "blocks/gen5/blackspecular"
 	},
 	"elements": [
