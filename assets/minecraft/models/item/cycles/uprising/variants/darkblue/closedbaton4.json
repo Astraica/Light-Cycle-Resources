@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "blocks/gen5/blackspecular",
 		"1": "blocks/gen5/darkmetallic",
-		"2": "blocks/gen5/green/blueemitter_uprising",
+		"2": "blocks/gen5/darkblue/blueemitter",
 		"particle": "blocks/gen5/blackspecular"
 	}
 	,
