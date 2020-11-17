@@ -1,0 +1,15 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/animate/uprising/rez4_model",
+	"textures": {
+		"2": "blocks/gen5/gone",
+		"11": "blocks/gen5/pink/wireframe",
+		"particle": "blocks/encom786/baseblack"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":4111},
+		  "model": "minecraft:item/animate/uprising/rez4_model"
+		}
+	]
+}

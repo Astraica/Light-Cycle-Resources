@@ -1,0 +1,21 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/animate/uprising/rez10_model",
+	"textures": {
+		"2": "blocks/gen5/darkmetallic",
+		"3": "blocks/gen5/tire",
+		"8": "blocks/gen5/blackglass",
+		"10": "blocks/gen5/green/wheellightlines_uprising",
+		"11": "blocks/gen5/green/wireframe_uprising",
+		"12": "blocks/gen5/white_metal2",
+		"13": "blocks/gen5/white_wheelmetal",
+		"1_1": "blocks/gen5/green/whiteglow_uprising",
+		"1_11": "blocks/gen5/white_leather"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":10111},
+		  "model": "minecraft:item/animate/uprising/rez10_model"
+		}
+	]
+}

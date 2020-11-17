@@ -1,0 +1,17 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/cycles/uprising/closedbaton4_model",
+	"textures": {
+		"0": "blocks/gen5/blackspecular",
+		"1": "blocks/gen5/darkmetallic",
+		"2": "blocks/gen5/darkblue/blueemitter",
+		"particle": "blocks/gen5/blackspecular"
+	}
+	,
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":5555},
+		  "model": "minecraft:item/cycles/uprising/closedbaton4_model"
+		}
+	]
+}
