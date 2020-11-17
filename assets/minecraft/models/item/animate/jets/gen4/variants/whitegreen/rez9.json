@@ -3,7 +3,7 @@
 	"parent": "minecraft:item/animate/jets/gen4/rez9_model",
 	"textures": {
 		"4": "blocks/gen5/gone",
-		"5": "blocks/gen5/green/wireframe",
+		"5": "blocks/gen5/green/wireframe_uprising",
 		"particle": "blocks/gen5/green/whiteglow2"
 	},
 	"overrides": [

@@ -1,0 +1,17 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/animate/uprising/rez7_model",
+	"textures": {
+		"10": "blocks/gen5/orange/wheellightlines_uprising",
+		"11": "blocks/gen5/orange/wireframe",
+		"12": "blocks/gen5/white_metal2",
+		"13": "blocks/gen5/white_wheelmetal",
+		"1_1": "blocks/gen5/orange/whiteglow"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":7111},
+		  "model": "minecraft:item/animate/uprising/rez7_model"
+		}
+	]
+}
