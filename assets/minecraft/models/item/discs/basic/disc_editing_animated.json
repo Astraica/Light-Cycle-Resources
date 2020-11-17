@@ -1,7 +1,7 @@
 {
     "credit": "Made by Flubberschnub", 
     "textures": {
-        "main": "block/discs/basic/disc_editing_animation"
+        "main": "blocks/discs/basic/disc_editing_animation"
     }, 
     "elements": [
         {

@@ -6,7 +6,7 @@
 		"2": "blocks/discs/basic/gray",
 		"3": "blocks/discs/basic/bluish",
 		"4": "blocks/discs/basic/deactivatedrim",
-		"5": "blocks/discs/basic/codeframe",
+		"5": "blocks/discs/basic/codeframe_ani1",
 		"particle": "blocks/discs/basic/black"
 	},
 	"elements": [
