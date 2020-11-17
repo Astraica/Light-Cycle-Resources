@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "blocks/gen5/green/whiteglow2",
 		"1": "blocks/gen5/blackspecular",
-		"5": "blocks/gen5/green/wireframe",
+		"5": "blocks/gen5/green/wireframe_uprising",
 		"particle": "blocks/gen5/green/whiteglow2"
 	},
 	"overrides": [

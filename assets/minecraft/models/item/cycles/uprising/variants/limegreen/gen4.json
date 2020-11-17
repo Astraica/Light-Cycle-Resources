@@ -1,0 +1,27 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/cycles/uprising/gen4_model",
+	"textures": {
+		"0": "blocks/gen5/blackspecular",
+		"1": "blocks/gen5/limegreen/whiteglow",
+		"2": "blocks/gen5/darkmetallic",
+		"3": "blocks/gen5/tire",
+		"8": "blocks/gen5/blackglass",
+		"10": "blocks/gen5/limegreen/wheellightlines_uprising",
+		"11": "blocks/gen5/leather",
+		"12": "blocks/gen5/metal2",
+		"13": "blocks/gen5/wheelmetal",
+		"14": "blocks/gen5/metal",
+		"15": "blocks/gen5/limegreen/whiteglow_uprising_ani2",
+		"16": "blocks/gen5/limegreen/whiteglow_uprising_ani",
+		"17": "blocks/gen5/limegreen/coils_uprising_ani",
+		"18": "blocks/gen5/limegreen/coils_uprising_ani2",
+		"particle": "blocks/gen5/limegreen/whiteglow_uprising_ani2"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":1111},
+		  "model": "minecraft:item/cycles/uprising/gen4_model"
+		}
+	]
+}

@@ -5,7 +5,7 @@
 		"0": "blocks/gen5/whiteglow2",
 		"1": "blocks/gen5/whitespecular",
 		"2": "blocks/gen5/whitedarkmetallic",
-		"5": "blocks/gen5/wireframe",
+		"5": "blocks/gen5/wireframe_uprising",
 		"particle": "blocks/gen5/whiteglow2"
 	},
 	"overrides": [

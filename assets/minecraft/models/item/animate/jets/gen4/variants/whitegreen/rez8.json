@@ -2,7 +2,7 @@
 	"credit": "Made by Flubberschnub",
 	"parent": "minecraft:item/animate/jets/gen4/rez8_model",
 	"textures": {
-		"5": "blocks/gen5/green/wireframe",
+		"5": "blocks/gen5/green/wireframe_uprising",
 		"particle": "blocks/gen5/green/whiteglow2"
 	},
 	"overrides": [
