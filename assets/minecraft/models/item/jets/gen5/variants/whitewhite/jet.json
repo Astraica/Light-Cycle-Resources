@@ -3,9 +3,9 @@
 	"parent": "minecraft:item/jets/gen5/jet_model",
 	"textures": {
 		"0": "blocks/gen5/whiteglow2",
-		"1": "blocks/gen5/blackspecular",
+		"1": "blocks/gen5/whitespecular",
 		"2": "blocks/gen5/metallic",
-		"3": "blocks/gen5/darkmetallic",
+		"3": "blocks/gen5/whitedarkmetallic",
 		"particle": "blocks/gen5/whiteglow2"
 	},
 	"overrides": [
