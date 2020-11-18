@@ -2,7 +2,7 @@
 	"credit": "Made by Flubberschnub",
 	"textures": {
 		"1": "blocks/encom786/gone",
-		"6": "blocks/gen5/green/greenemitter",
+		"6": "blocks/gen5/green/green/blueemitter",
 		"particle": "blocks/encom786/gone"
 	},
 	"elements": [
