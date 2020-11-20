@@ -16,9 +16,7 @@
             {"index": 12, "time": 3},
             {"index": 13, "time": 3},
             {"index": 14, "time": 3},
-            {"index": 15, "time": 3},
-            {"index": 16, "time": 3},
-            {"index": 17, "time": 100}
+            {"index": 15, "time": 3}
         ]
     }
 }
