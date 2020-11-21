@@ -1,0 +1,17 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/jets/gen5/jet_model",
+	"textures": {
+		"0": "blocks/gen5/yellow/whiteglow2",
+		"1": "blocks/gen5/whitespecular",
+		"2": "blocks/gen5/metallic",
+		"3": "blocks/gen5/whitedarkmetallic",
+		"particle": "blocks/gen5/yellow/whiteglow2"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":4444},
+		  "model": "minecraft:item/jets/gen5/jet_model"
+		}
+	]
+}
