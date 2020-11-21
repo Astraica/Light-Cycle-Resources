@@ -1,0 +1,15 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/animate/jets/gen5/rez1_model",
+	"textures": {
+		"4": "blocks/gen5/gray/wireframe",
+		"5": "blocks/gen5/gone",
+		"particle": "blocks/gen5/gray/whiteglow2"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":1111},
+		  "model": "minecraft:item/animate/jets/gen5/rez1_model"
+		}
+	]
+}

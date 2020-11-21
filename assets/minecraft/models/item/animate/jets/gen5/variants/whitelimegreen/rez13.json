@@ -1,0 +1,18 @@
+{
+	"credit": "Made by Flubberschnub",
+	"parent": "minecraft:item/animate/jets/gen5/rez13_model",
+	"textures": {
+		"0": "blocks/gen5/limegreen/whiteglow2",
+		"1": "blocks/gen5/whitespecular",
+		"2": "blocks/gen5/metallic",
+		"3": "blocks/gen5/whitedarkmetallic",
+		"4": "blocks/gen5/limegreen/wireframe",
+		"particle": "blocks/gen5/limegreen/whiteglow2"
+	},
+	"overrides": [
+		{
+		  "predicate": {"custom_model_data":13111},
+		  "model": "minecraft:item/animate/jets/gen5/rez13_model"
+		}
+	]
+}
